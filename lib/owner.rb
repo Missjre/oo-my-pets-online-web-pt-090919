@@ -1,5 +1,4 @@
 class Owner
-  # codclass Owner
   @@all= []
   attr_accessor :name, :pets
   attr_reader :species
