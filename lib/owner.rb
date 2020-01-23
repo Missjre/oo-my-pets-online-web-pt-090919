@@ -88,5 +88,4 @@ class Owner
   def self.count
     @@all.size
   end
-ende goes here
 end
